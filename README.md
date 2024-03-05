@@ -4,4 +4,5 @@
 
 - Working remotely as developer at [@Avanti](https://penseavanti.com.br/ecommerce/)
 
-- ![amhaase's Stats](https://github-readme-stats.vercel.app/api?username=amhaase&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+
+![amhaase's Stats](https://github-readme-stats.vercel.app/api?username=amhaase&theme=darcula&show_icons=true&hide_border=true&count_private=true)
